@@ -2,7 +2,7 @@
 
 🎓 BS Artificial Intelligence - University of Management & Technology, Lahore (2022–2026)
 🔬 ML Engineer | Computer Vision Researcher | Robotics Enthusiast
-📄 Published: *"Vision-only deep learning baseline for Meme-based humor classification"* — NBC 2026, Namal University (Track: Technology & Innovation · Abstract ID: T4.02)
+📄 Published: *"Vision-only deep learning baseline for Meme-based humor classification"* NBC 2026, Namal University (Track: Technology & Innovation · Abstract ID: T4.02)
 📍 Lahore, Pakistan | Applying for MS in AI
 
 ---
