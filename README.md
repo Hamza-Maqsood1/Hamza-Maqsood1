@@ -26,7 +26,7 @@ Hamza Maqsood - University of Management and Technology, Lahore
 🔗 [View in Abstract Book](https://conference.namal.edu.pk/wp-content/uploads/2026/04/Abstract_Book.pdf)
 
 > A deep learning framework for visual humor classification using fine-tuned ResNet18.
-> Vision-only approach using ImageNet transfer learning — addresses a gap where prior research focused on text or multimodal methods.
+> Vision-only approach using ImageNet transfer learning addresses a gap where prior research focused on text or multimodal methods.
 
 ---
 
@@ -67,6 +67,10 @@ Hamza Maqsood - University of Management and Technology, Lahore
 - 🏆 Google Cloud Certified - Professional Cloud Architect (Nov 2024)
 - ☁️ Develop NLP Solutions with Azure AI Services - Microsoft (Jan 2025)
 - 🤖 Generative AI for Executives and Business Leaders - IBM (May 2024)
+- 🤖 NLP Building Chatbots using AI - Udemy (Jan 2024)
+- 📝 How to write a research paper - Coursera (Jan 2025)
+- 💻 Research Paper Presentation - NBC(April 2026)
+- 📈 Writing High-Quality Impact Factor Papers - NUM (April 2026)
 
 ---
 
